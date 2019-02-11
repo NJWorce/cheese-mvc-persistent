@@ -15,7 +15,7 @@ import java.util.List;
 
 @Controller
 @RequestMapping("category")
-public class CatagoryController {
+public class CategoryController {
     @Autowired
     private CategoryDao categoryDao;
 
